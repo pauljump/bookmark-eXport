@@ -1,5 +1,7 @@
 # bookmark-eXport
 
+![bookmark-eXport — back up your X bookmarks to enriched JSON](assets/social-card.png)
+
 Back up your **X (Twitter) bookmarks** to a clean JSONL file — fully enriched with the complete
 tweet text, the author's whole thread, quoted tweets, media, links, and even the **full body of X
 Articles**. No paid API, no third-party scraping service, no LLM. It runs entirely on your own
