@@ -1,0 +1,12 @@
+# virtualenv
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# your scraped data — never commit your own bookmarks
+bookmarks.jsonl
+*.jsonl
+
+# your cookies / secrets — never commit these
+.env
