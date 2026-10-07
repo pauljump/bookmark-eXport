@@ -10,3 +10,10 @@ bookmarks.jsonl
 
 # your cookies / secrets — never commit these
 .env
+
+# Generated local files; source and retained evidence remain explicit.
+.DS_Store
+*.tsbuildinfo
+.next/
+.next-*/
+.build/
